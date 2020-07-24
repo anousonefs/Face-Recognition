@@ -8,6 +8,7 @@ from parinya import LINE
 Line = LINE('b1lS520rY397U7Z9cvwn9lLp0MovDjywl9JQXmh5GPL')
 
 nameDetect = "AJ.THONGDY"
+nameDetect2 = "TEE"
 path = 'Images'
 images = []
 classNames = []
@@ -75,7 +76,7 @@ while True:
             markAttendanec(name[:-1])    # ທຳການບັນທຶກຊື່
             print(name[:-1])    # ບ່ເອົາຕົວອັກສອນທ້າຍສຸດ
 
-            if name[:-1] == nameDetect:   #  ກວດສອບວ່າ ຊື່ທີໄດ້ກົງ ກັບຊື່  ທີເຮົາຊອກຫາບໍ່
+            if name[:-1] == nameDetect or name[:-1] == nameDetect2:   #  ກວດສອບວ່າ ຊື່ທີໄດ້ກົງ ກັບຊື່  ທີເຮົາຊອກຫາບໍ່
                 Line.sendsticker(stickerId=2, stickerPackageId=1)   # ແຈ້ງເຕືອນຜ່ານ LINE
                 Line.sendtext(f"We found {nameDetect} !!!")
                 Line.sendimage(img[:, :, ::-1])
