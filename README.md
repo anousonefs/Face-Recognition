@@ -2,6 +2,8 @@
  ເຮັດລະບົບຈົດຈໍາໃບໜ້າ ໂດຍໃຊ້ Raspberry Pi, Raspberry Pi Camera Module ແລະ library face_recogniton ເມືອລະບົບສາມາດຈົດຈໍາໃບໜ້າໄດ້ແລ້ວ ສາມາດລະບຸບຸກຄົນທີຕ້ອງການຊອກຫາ ເມືອລະບົບເຫັນບຸກຄົນດັ່ງກ່າວ ໃຫ້ທໍາການສົ່ງຮູບພາບບຸກຄົນນັ້ນແຈ້ງເຕືອນຜ່ານ LINE Notify
  
 <img src="https://github.com/anousoneFS/face_Recognition/raw/master/anousone.jpeg" alt="LINE Notify" width="200" height="400">
+
+
 <img src="https://github.com/anousoneFS/face_Recognition/raw/master/aj.thongdy.jpeg" alt="LINE Notify" width="200" height="400">
 
 
@@ -22,8 +24,9 @@
    ໃນລະບົບສາມາດບັນທຶກຊື່,ເວລາ ທີກ້ອງກວດຈັບບຸກຄົນດັ່ງກ່າວໄດ້ ໂດຍບັນທຶກໃນ file [Attendance.csv](https://github.com/anousoneFS/face_Recognition/blob/master/Attendance.csv)
  
  # ແຫລ່ງອ້າງອີງ
- [LINE Notify](https://youtu.be/rwkvgtXgCZs)
- [Face Recognition]( https://youtu.be/sz25xxF_AVE)
+ *[LINE Notify](https://youtu.be/rwkvgtXgCZs)
+ 
+ *[Face Recognition]( https://youtu.be/sz25xxF_AVE)
  
    
      
