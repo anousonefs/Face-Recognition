@@ -28,6 +28,7 @@
  
  *[Face Recognition]( https://youtu.be/sz25xxF_AVE)
  
-   
+ # ໝາຍເຫດ 
+   ຂໍ້ມູນຮູບພາບມີຜົນຕໍ່ລະບົບ ຮູບໜ້ອຍ model ບໍ່ແມ້ນຍຳ ແຕ່ຖ້າຮູບຫລາຍ model ມີຄວາມແມ້ນຍຳສູງ ແຕ່ໃຊ້ເວລາ run model ດົນ.
      
      
