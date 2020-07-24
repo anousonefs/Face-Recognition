@@ -17,11 +17,11 @@
  
  # ຕົວຢ່າງການປະຍຸກໃຊ້
    ສາມາດໃຊ້ກວດຈັບຄົນຮ້າຍ,ບຸກຄົນທີຕ້ອງການຊອກຫາໄດ້ ຫລື ກວດຈັບພະນັກງານເຂົ້າອອກ office. ເພີ່ມເຕີມແມ່ນເພີ່ມ Ultrasonic Sensor ກວດຈັບວັດຖຸທີແລນຜ່ານກ້ອງແລ້ວໃຫ້ກ້ອງເຮັດວຽກ ເພື່ອເພີ່ມປະສິດທິພາບໃຫ້ລະບົບຫລາຍຂຶ້ນ.
-   ໃນລະບົບສາມາດບັນທຶກຊື່,ເວລາ ທີກ້ອງກວດຈັບບຸກຄົນດັ່ງກ່າວໄດ້ ໂດຍບັນທຶກໃນ file ![Attendance.csv](https://github.com/anousoneFS/face_Recognition/blob/master/Attendance.csv)
+   ໃນລະບົບສາມາດບັນທຶກຊື່,ເວລາ ທີກ້ອງກວດຈັບບຸກຄົນດັ່ງກ່າວໄດ້ ໂດຍບັນທຶກໃນ file [Attendance.csv](https://github.com/anousoneFS/face_Recognition/blob/master/Attendance.csv)
  
  # ແຫລ່ງອ້າງອີງ
- ![LINE Notify](https://youtu.be/rwkvgtXgCZs)
- ![Face Recognition]( https://youtu.be/sz25xxF_AVE)
+ [LINE Notify](https://youtu.be/rwkvgtXgCZs)
+ [Face Recognition]( https://youtu.be/sz25xxF_AVE)
  
    
      
